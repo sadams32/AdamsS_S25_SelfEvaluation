@@ -1,0 +1,138 @@
+---
+title: "AN/BI 588: End-of-Semester Self Evaluation"
+author: "Sylvie Adams"
+date: "May 2, 2025"
+format: html
+editor: visual
+theme: "cosmo"
+---
+
+***
+
+### [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
+### [Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
+### [Modules](https://fuzzyatelin.github.io/bioanth-stats/modules.html)
+### [Assignments](https://fuzzyatelin.github.io/bioanth-stats/assignments.html)
+### [Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
+### [Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
+### [Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
+
+***
+
+<center>
+
+<font size="+2"><b>This is my moment (to show all I have learned)!</b></font></center><br>
+
+<center><p><img src="https://i.pinimg.com/originals/e5/30/bf/e530bf32ea35316227c86ca3861740f1.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+The following self evaluation will comment on my work, experiences, and learning through the Spring 2025 semester in AN/BI 588. Overall, I feel like this class has expanded my abilities to conduct future research because I will not be limited by the intimidation of data analysis or coding. These basic techniques and skills in statistics and R, as well as a working knowledge of intelligible formatting and crafting reproducible work, will help me critically evaluate research studies, including my own.
+
+</center>
+***
+
+### What were you asked to do?
+
+***
+
+1) [Homework 1: Push It!](https://github.com/sadams32/AN588-Homework1-saadams/blob/main/saadams_FinalHomeworkCode_01.html)
+
+2) [Homework 2: Titis in the Mist...](https://github.com/sadams32/AN588-Titis-saadams/blob/main/saadams_FinalHomeworkCode_02.html)
+
+3) [Homework 3: Some of my Best Friends are Zombies...](https://github.com/sadams32/AN588_Zombies_saadams/blob/main/saadams_FinalHomeworkCode_03.html)
+
+4) [Homework 4: What's Your Malfunction?](https://github.com/sadams32/AN588_Malfunction_saadams/blob/main/saadams_FinalHomeworkCode_04.html)
+
+5) [Homework 5: Boots for Days!](https://github.com/sadams32/AN588_Boots_saadams/blob/main/saadams_FinalHomeworkCode_05.html)
+
+6) Peer Commentary:
+My summary comments on my peer's code are at the bottom of each final homework (above). The full annotated version of my peer's code would be available in the relevant partner's repository for each assignment.
+
+7) [Group Presentation and R-Vignette:](https://github.com/auzeff/AN588_Vignette/blob/main/Birth-death.html)
+
+(my group collaborated in a repository made in my group member's GitHub (auzeff))
+
+
+8) [Analysis Replication:](https://github.com/sadams32/saadams-AN588-Replication/blob/main/saadams_ReplicationCode.html)
+
+9) Self Evaluation: This document!
+
+10) On-time module completion
+
+11) Attendance
+
+
+***
+
+### What did you accomplish?
+
+***
+
+1, 2, 3, 4) All completed on time with exception of edits made at the bottom of each final version document (date and time stamp noted at bottom of these assignments) to reflect on takeaways from peer commentary (initially I did not write this explicitly in my document, though all commentary was completed on time). Dr. Schmitt and I discussed this in March and he suggested I write the answers to the peer commentary questions explicitly in my work. Homework 1 was turned in a few days late because my peer commentator initially struggled to figure out how version control works and Homework 2 was turned in on time but without peer commentary (initially) because my peer had failed to give me feedback before the assignment was due. 
+
+5, 6, 7, 8, 9, 10) All completed on time. Peer commentary was always complete within 36 hours (minimum) of homework due date.
+
+11) I attended every class, on-time and in full.
+
+***
+
+### How well did you accomplish them?
+
+***
+
+I feel really happy with the work I did. I think I was really good about meeting deadlines and following along with the modules. In many cases I believe I went beyond what was asked of me, especially with regards to the level of detail in my replication assignment and the time I spent on formatting my code throughout the semester. I spent a lot of time researching my topics for the vignette and replication assignments, both for content and for ways to improve my code. I wish that I had taken more time to review my homework when the answer keys had been posted so I could learn more from my mistakes. The hardest part of the class was probably troubleshooting - it was very discouraging when something would not work for hours and when it seemed there was no solution (and then all of a sudden I would get a new idea or someone would suggest something!). My work and the quality and complexity of my code definitely improved over the semester, especially with respect to statistical analyses I now feel comfortable conducting in my own research outside of the assignments in this class (ex. Tukey's HSD).
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+I think that this course has given me an idea of not just how to analyze data but also how to analyze the way we analyze data. That is, I have a greater understanding and appreciation for model selection and evaluating the trade-offs researchers face in experimental and statistical design. I think this has also been very helpful in being able to critically look at other researchers' analyses and think about how valid their logic and statistical assumptions seem.
+
+***
+
+### What did you learn from all this?
+
+***
+
+1) Version control. I know this is a basic skill in coding, but working with GitHub and understanding how to work with different branches, and when to push, pull, and commit has always confused me. Going through the process of creating repositories, or working with existing repositories in a group member's GitHub, and then learning how to work with that document locally and remotely has been really helpful to feel confident doing this.
+
+2) Organizing reproducible analyses. This course gave me a better appreciation, and also better methods, for commenting on code and thinking about how to visually organize and guide someone through my statistical analysis (ex. collapsible boxes, table of contents). I think this growth was really apparent in my replication assignment.
+
+3) Running statistical tests. In my various assignments I became exposed not just to interpreting statistical tests but also actually organizing data in such a way that I could run them. For example, I learned how to go through a Maximum Likelihood Estimation as a part of my group's vignette (and how data should be organized and what more you can do with interpretations at each step).
+
+***
+
+### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+I did learn about teamwork, especially through my vignette project. I think the readings on teamwork aligned nicely with important discussions my team ended up having, such as defining particular roles and setting deadlines. I think that because my vignette group was so responsible there wasn't much management that had to be done. I found that peer commentary was a little more difficult when we couldn't meet up in person to talk, since it was harder to set deadlines and hold people accountable.
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+I think the peer commentary was more helpful for some assignments and then less helpful for others (it was usually helpful when my struggle was more specific). Looking at other code was definitely helpful, since it helped point out issues or things my process lacked that I would not have thought of otherwise. I think because the group project was longer term and we had so much time in class to talk about it that the process of suggesting changes and talking about different directions was much more efficient. I really enjoyed getting feedback from my group members and I think peer commentary might have been better if we had done that in-person for every assignment. My group members were really detail-oriented and were a great resource for other assignments outside of the vignette (like trouble-shooting issues or questions in our replication assignments).
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+I think this course gives me the ability to use statistical analysis in my research outside of school, which is especially helpful as I enter a clinical research job after graduation which will require me to be more independent. I feel so much more confident leaving BU for having this level of comfort working with data and R, especially as these skills become more vital to have in research and medical careers.
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+[A]
+
+***
